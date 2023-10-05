@@ -18,12 +18,15 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: kaif2305
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: ${{ secrets.SNAKE_GIF_PATH }}
+          svg_out_path: ${{ secrets.SNAKE_SVG_PATH }}
 
       - name: Debug - List Directory Contents
         run: ls -l dist
 
+      - name: Write Output to Environment File
+        run: echo "SNAKE_GIF_PATH=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
+      
       - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
