@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Abstract Tech Background Banner" width="100%">
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/hi.gif" width="50px" alt="Hi" />
   <h1>Hey there, I'm Kaif Ahmad!</h1>
   <h3>A passionate Web Developer and AI/ML enthusiast from India.</h3>
