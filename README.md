@@ -14,7 +14,11 @@
 
 <br>
 
-## About Me
+## A Bit About Me
+
+**AI & ML Enthusiast | Experience in Startups & Research | Skilled in AI Model Development & Deployment**
+
+I’m a Master’s student in AI for Health at Stockholm University with hands-on experience in both startups and academic research. I’ve worked on practical machine learning projects, gaining strong proficiency in AI frameworks and model deployment. Passionate about applying intelligent systems to real-world challenges, especially in the healthcare domain.
 
 - 👨‍💻 My portfolio of projects can be found at [https://kaif-portfolio.vercel.app/](https://kaif-portfolio.vercel.app/)
 - 📫 Feel free to reach out to me at **23kaif05@gmail.com**
@@ -39,7 +43,7 @@
 
 <br>
 
-## My Toolkit: Languages and Tools
+## My Development Arsenal
 
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -75,7 +79,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif2305&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
