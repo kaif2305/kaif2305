@@ -27,7 +27,7 @@ I’m a Master’s student in AI for Health at Stockholm University with hands-o
 - 👨‍💻 My portfolio of projects can be found at [https://kaif-portfolio.vercel.app/](https://kaif-portfolio.vercel.app/)
 - 📫 Feel free to reach out to me at **23kaif05@gmail.com**
 - 📄 Explore my professional experience on my CV: [https://github.com/kaif2305/My-CV](https://github.com/kaif2305/My-CV)
-- ⚡ Fun fact: The world's first programmer, Ada Lovelace, was the daughter of a famous poet!
+- ⚡ Fun fact: The world’s first programmer, Ada Lovelace, was the daughter of a famous poet!
 
 <br>
 
