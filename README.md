@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Abstract Tech Background Banner" width="100%">
+  <img src="[http://googleusercontent.com/image_generation_content/0](https://cdn.prod.website-files.com/63a9fb94e473f36dbe99c1b1/65bbd53125d63696b92caf32_8fJZ88J2r4VJmqLTWyamp2aEKSeaSEqA4qU3_DYqijrevc6ZfKc5MHDyMUaS_SUo7M1EkeSHYfC1-uj6ZsrcAbNVsKr1vHWeDtqY6793S3eK5mjsXIbiVI95vePT5VY6xWI-i88eNJTc5I9csRvNfXY.webp)" alt="Abstract Tech Background Banner" width="100%">
 </div>
 
 <div align="center">
