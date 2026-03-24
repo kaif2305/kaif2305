@@ -1,9 +1,12 @@
+
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/hi.gif" width="40px" alt="Hi" />
-  [cite_start]<h1>Kaif Ahmad [cite: 1]</h1>
-  [cite_start]<h3>AI / Machine Learning Engineer </h3>
-  [cite_start]<p>Specializing in end-to-end ML systems, LLM applications, and healthcare AI. [cite: 6]</p>
+  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/hi.gif" width="50px" alt="Hi" />
+  <h1>Hey there, I'm Kaif Ahmad!</h1>
+  <h3>A passionate Web Developer and AI/ML enthusiast from India.</h3>
 </div>
+
+---
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=kaif2305&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
@@ -13,83 +16,89 @@
 
 <br>
 
-## 🚀 About Me
+## A Bit About Me
 
-[cite_start]I am an AI/ML Engineer with a proven ability to build scalable, real-world solutions across NLP, deep learning, and intelligent systems[cite: 6, 7]. [cite_start]I am currently pursuing an MSc in AI for Health at Stockholm University [cite: 9][cite_start], building upon my B.Tech in Computer Science & Engineering from Vellore Institute of Technology[cite: 11]. 
+**AI & ML Enthusiast | Experience in Startups & Research | Skilled in AI Model Development & Deployment**
 
-My professional background includes practical research and development. [cite_start]As an AI Research Intern at BIT Mesra, I developed AI solutions for Indian languages and improved spoofing detection systems[cite: 16, 18, 19]. [cite_start]Previously, at DorkLab, I built a multimodal AI system analyzing facial, eye, and audio cues for real-time engagement monitoring[cite: 20, 22, 23].
+I’m a Master’s student in AI for Health at Stockholm University with hands-on experience in both startups and academic research. I’ve worked on practical machine learning projects, gaining strong proficiency in AI frameworks and model deployment. Passionate about applying intelligent systems to real-world challenges, especially in the healthcare domain.
 
-* [cite_start]**Location:** Stockholm, Sweden [cite: 3]
-* **Portfolio:** [kaif-portfolio.vercel.app](https://kaif-portfolio.vercel.app/)
-* [cite_start]**Contact:** [kaifahmad2305@gmail.com](mailto:kaifahmad2305@gmail.com) [cite: 3]
-
-<br>
-
-## 🛠️ Technical Arsenal
-
-### Languages & Frameworks
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</p>
-
-### MLOps, Data & Cloud
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
-
-* [cite_start]**Core Competencies:** Generative AI, RAG, LLMs, Supervised & Unsupervised Learning, CNNs, Modular Pipeline Design, CI/CD[cite: 26, 28].
-* [cite_start]**Advanced Tools:** Hugging Face, LangChain, FAISS, MLflow, DAGsHub, Vertex AI[cite: 27, 28].
+- 👨‍💻 My portfolio of projects can be found at [https://kaif-portfolio.vercel.app/](https://kaif-portfolio.vercel.app/)
+- 📫 Feel free to reach out to me at **23kaif05@gmail.com**
+- 📄 Explore my professional experience on my CV: [https://github.com/kaif2305/My-CV](https://github.com/kaif2305/My-CV)
+- ⚡ Fun fact: The world’s first programmer, Ada Lovelace, was the daughter of a famous poet!
 
 <br>
 
-## 🔭 Featured Projects
+## Let's Connect!
 
-* [cite_start]**Telco Customer Churn Prediction:** Built an end-to-end churn prediction pipeline on GCP Vertex AI using Scikit-learn and Docker, deployed via REST API[cite: 30, 31].
-* [cite_start]**Medical Chatbot using Llama 2:** Developed a domain-specific conversational AI using Llama 2, LangChain, SBERT, and FAISS[cite: 41, 42].
-* [cite_start]**Vaccine Misinformation Detection:** Engineered a RAG-based misinformation classifier using BERT embeddings and FAISS, achieving 89% classification accuracy[cite: 38, 39, 40].
-* [cite_start]**Sequential Trip Planner Agent:** Engineered a multi-agent system utilizing Google ADK and Gemini 2.0 Flash to process multi-constraint inputs[cite: 35, 36, 37].
-* [cite_start]**End-to-End Wine Quality Prediction:** Designed a modular ML pipeline integrating MLflow and DAGsHub for automated experiment tracking[cite: 33, 34].
-
-<br>
-
-## 📜 Publications & Certifications
-
-* [cite_start]**Publication:** *MOOD PLAYER: Emotion Based Music Recommendation System*, IJEAST 2023[cite: 51].
-* [cite_start]**Publication (Under Review):** *Replay Attack Detection Using EMD-CQCC Based Features*, Archives of Acoustics[cite: 53].
-* [cite_start]**Certification:** AI Engineer Professional Certificate Course (Udemy, Jan 2026)[cite: 56].
-* **Certification:** Vertex AI Gemini | [cite_start]Generative AI - GCP Machine Learning (Google Cloud Academy, Feb 2026)[cite: 56].
-
-<br>
-
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif2305&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaif2305&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaif2305&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
-</div>
-
-<br>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kaif-ahmad-1b7b5920b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p align="center">
   <a href="https://twitter.com/the_______k" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/kaif-ahmad-1b7b5920b/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/abba__nahi__manenge/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+<br>
+
+## My Development Arsenal
+
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express.js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Adobe Illustrator"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer" title="OpenCV"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://pugjs.org" target="_blank" rel="noreferrer" title="Pug"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" title="PyTorch"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-learn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="Adobe XD"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+</p>
+
+<br>
+
+---
+
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif2305&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaif2305&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaif2305&theme=vision-friendly-dark" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaif2305&theme=dark" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
